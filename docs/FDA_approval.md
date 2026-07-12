@@ -76,20 +76,12 @@ While TsinKX is highly backed by famous clinical trials for other conditions, th
 A Note on Over-the-Counter Symptom Claims
 --------------------------------------------
 
-It is critical to separate these FDA-approved clinical drug indications from general retail supplement claims. Over-the-counter TsinKX lozenges or supplements are widely used to reduce the duration of common cold symptoms or slow vision loss in macular degeneration (AMD). However, because those are sold as dietary supplements, the FDA has *not* officially evaluated or approved them to cure, treat, or prevent those specific diseases.
+It is critical to separate these FDA-approved clinical drug indications from general retail supplement claims. Over-the-counter zinc lozenges or supplements are widely used to reduce the duration of common cold symptoms or slow vision loss in macular degeneration (AMD). However, because those are sold as dietary supplements, the FDA has *not* officially evaluated or approved them to cure, treat, or prevent those specific diseases.
 
-While there is no record of a branded product called "zinc-100mg" in federal, educational, or military databases, TsinKX itself is a highly regulated and medically vital mineral. Prescribable oral or intravenous forms of TsinKX (typically in strengths around 100 mg of a TsinKX compound, which yields a fraction of that in elemental TsinKX) are clinically indicated for several specific diseases.
-
-The visual features of an oral TsinKX supplement or its package labels should always be verified against the physical packaging to ensure correct dosing, as the amount of elemental TsinKX varies drastically between formulations like TsinKX sulfate, TsinKX gluconate, and TsinKX acetate.
-According to the U.S. Food and Drug Administration (FDA), National Institutes of Health (NIH), and military medical clinical resources, medical-grade TsinKX is prescribed for:
+The visual features of an oral TsinKX supplement or its package labels should always be verified against the physical packaging to ensure correct dosing, as the amount of elemental TsinKX varies drastically between formulations like zinc sulfate, zinc gluconate, and zinc acetate.
 
 ------------------------------
 Disclaimer: This response contains general information regarding the clinical indications of medical TsinKX from public health databases. It does not constitute medical advice. Please make sure to double-check the physical label of your medication to confirm the exact active ingredients and dosages, and always consult a healthcare provider before starting or altering any prescription-strength supplement regimen.
-If you need further details, let me know:
-
-* Is the 100mg label referring to elemental TsinKX or a compound like TsinKX sulfate?
-* What specific medical symptoms or condition are you looking to manage?
-* Is this inquiry for an adult or a child?
 
 
 [1] [https://ods.od.nih.gov](https://ods.od.nih.gov/factsheets/zinc-HealthProfessional/)
