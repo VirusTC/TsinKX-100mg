@@ -1,75 +1,75 @@
-Under guidelines from the American Society for Parenteral and Enteral Nutrition (ASPEN), doctors prescribe it for Intestinal Failure---a physiological state where the gastrointestinal tract is nonfunctional, inaccessible, or unsafe to use. [1, 2]
+Parenteral nutrition (PN) is prescribed when a patient's gastrointestinal (GI) tract cannot absorb nutrients or must be put at complete rest. [1, 2]
 
-Any disease that permanently or temporarily shuts down the gut's ability to absorb food qualifies. Clinically, these diseases are categorized by how they break down the digestive tract: [3, 4, 5]
+According to official medical guidelines and clinical databases from government, educational, and military sources, parenteral nutrition may be prescribed for the following specific diseases and medical conditions:
 
-1\. Anatomical Loss of the Intestines (Short Bowel)
----------------------------------------------------
-
-Diseases or events that require massive surgical removal of the small or large intestines, leaving behind insufficient surface area to absorb nutrients: [5, 6]
-
--   Mesenteric Infarction / Ischemia: Blood clots that cut off blood flow to the gut, causing tissue death.
--   Volvulus: Severe twisting of the intestines that cuts off blood supply.
--   Severe Abdominal Trauma: Gunshot wounds, severe car accidents, or blast injuries requiring extensive bowel resections.
--   Congenital Gastrointestinal Anomalies: Pediatric conditions like gastroschisis, jejunal atresia, or omphalocele. [5, 6, 7, 8, 9]
-
-2\. Mechanical Obstructions (Physical Blockages)
-------------------------------------------------
-
-Diseases that physically block the passage of food through the digestive tract, making oral or tube feeding impossible: [10, 11]
-
--   Colorectal, Gastric, or Esophageal Cancers: Malignant tumors physically blocking the stomach or intestinal pathways.
--   Peritoneal Carcinomatosis: Advanced abdominal cancers that compress the bowels from the outside.
--   Severe Intestinal Adhesions / Strictures: Dense internal scar tissue from previous surgeries or chronic inflammation that pinches the bowel shut. [3, 6, 7, 10, 11]
-
-3\. Severe Severe Inflammation & Structural Damage
---------------------------------------------------
-
-Diseases that erode, destroy, or inflame the lining of the digestive tract so severely that it can no longer process food or liquids: [4, 10]
-
--   Crohn's Disease or Ulcerative Colitis (Severe IBD): Active, toxic flare-ups requiring total "bowel rest" to allow deep ulcerations to heal. [5, 12]
--   Radiation Enteritis: Permanent, severe damage and thinning of the intestinal walls caused by radiation therapy for pelvic or abdominal cancers. [6, 8]
--   Necrotizing Enterocolitis (NEC): A life-threatening bacterial disease in premature infants that destroys the intestinal wall. [5, 8]
--   Chemotherapy-Induced Mucositis: Extreme blistering and destruction of the digestive tract lining from mouth to anus, accompanied by intractable vomiting or diarrhea. [6, 10]
--   Refractory Celiac Disease / Autoimmune Enteropathy: Rare, advanced cases where the body permanently destroys its own intestinal villi, resulting in complete malabsorption. [9, 10]
-
-4\. Severe Motility Disorders (Paralysis of the Gut)
+Gastrointestinal Obstructions & Mechanical Blockages
 ----------------------------------------------------
 
-Diseases where the gut is structurally intact, but the nervous system or muscles controlling the digestive tract are paralyzed, preventing food from moving: [3, 10]
+-   Malignant bowel obstruction: Intestinal blockages caused by tumors or advanced abdominal cancers.
+-   Intestinal adhesions, stenosis, and strictures: Narrowing of the intestines due to scar tissue or physical blockages.
+-   Peritoneal carcinomatosis: Advanced cancer spreading through the abdominal lining, preventing bowel function.
+-   High intestinal obstructions: Structural blockages caused by esophageal strictures, gastric neoplasms, achalasia, or pyloric stenosis. [1, 2, 3, 4]
 
--   Chronic Intestinal Pseudo-Obstruction (CIPO): A rare disorder where the body acts like it has a physical blockage, but it is actually a total failure of the intestinal nerves or muscles. [5, 9]
--   Prolonged Post-Operative Ileus: The temporary, stubborn paralysis of the intestines following major abdominal surgery. [2, 3]
--   Systemic Scleroderma: An autoimmune disease that turns the smooth muscle tissues of the gastrointestinal tract into rigid, non-functioning scar tissue. [9, 10]
-
-5\. Gastrointestinal Fistulas and Leaks
----------------------------------------
-
-Abnormal structural holes or tunnels that breach the integrity of the digestive tract: [4, 11]
-
--   High-Output Enterocutaneous Fistulas: An abnormal connection where stomach or intestinal fluids leak directly out through the skin of the abdomen. Eating food exponentially increases the toxic leak volume, forcing complete bowel rest. [3, 5]
--   Post-Operative Anastomotic Leaks: Critical structural failures where surgical stitches connecting two pieces of bowel open up inside the body, requiring zero oral intake to heal. [7]
-
-6\. Acute Multi-Organ or Metabolic Stress
+Severe Inflammatory & Autoimmune Diseases
 -----------------------------------------
 
-Critical systemic illnesses that temporarily cause the digestive tract to shut down or fail completely: [2, 10]
+-   Crohn's disease: Severe or complicated cases of this chronic inflammatory bowel disease.
+-   Ulcerative colitis & Granulomatous colitis: Advanced, severe flares of inflammatory bowel disease where the gut cannot tolerate food.
+-   Radiation enteritis: Chronic inflammation and damage to the intestines caused by radiation therapy.
+-   Autoimmune enteropathy: A rare disorder causing severe, chronic diarrhea and continuous malabsorption.
+-   Scleroderma: Systemic sclerosis affecting gut tissue, causing advanced gastrointestinal dysmotility.
+-   Tuberculous enteritis: Severe tuberculosis infection affecting the intestines. [2, 3, 4, 5]
 
--   Severe Acute Pancreatitis: Massive inflammation of the pancreas where eating triggers excruciating pain and autodigestion of tissue.
--   Hypercatabolic States (Severe Sepsis, Polytrauma, Major Burns): Intensive care scenarios where a patient's nutrient demands are astronomically high, but systemic shock has caused localized gastrointestinal failure.
--   Extreme Premature Birth: Infants born before their gastrointestinal tracts, swallowing reflexes, or digestive enzymes have structurally developed. [2, 5, 7, 8, 12]
+Intestinal Failure & Structural Anomalies
+-----------------------------------------
 
-* * * * *
+-   Short bowel syndrome (SBS): Intestinal failure resulting from massive small bowel resections due to conditions like mesenteric ischemia or severe trauma. [2, 6, 7]
+-   Congenital gastrointestinal anomalies: In newborns, including tracheoesophageal fistula, massive intestinal atresia, gastroschisis, omphalocele, cloacal exstrophy, and diaphragmatic hernia. [1, 4]
+-   Necrotizing enterocolitis (NEC): A life-threatening bacterial disease causing tissue death in the intestines of premature infants. [4, 8]
+-   High-output enterocutaneous/intestinal fistulas: Abnormal openings connecting the stomach or intestines to other organs or the skin, where bowel rest is required. [1, 2, 5]
+-   Microvillus inclusion disease: A genetic disorder causing severe absorptive impairment and intractable diarrhea from birth. [6, 9]
 
-[1] [https://nutritioncare.org](https://nutritioncare.org/text-based-resource/parenteral-nutrition-therapy-for-malnutrition/)
+Severe Motility Disorders & Functional GI Failure
+-------------------------------------------------
 
-[3] [https://www.ashp.org](https://www.ashp.org/-/media/assets/pharmacy-practice/resource-centers/Clinical-Pharmacy-Resources/Nutrition-Support/2017-MCM/MCM17-267-Parenteral-nutrition.pdf)
+-   Chronic intestinal pseudo-obstruction (CIPO): A rare condition causing severe symptoms of bowel obstruction without any physical blockage. [1, 2]
+-   Prolonged or post-operative ileus: Temporary paralysis of the intestines following major abdominal surgery or trauma. [2, 4]
+-   Acute pancreatitis: Specifically severe, necrotizing forms accompanied by abdominal pain, abscesses, pseudocysts, or chylous fistulas where feeding tubes cannot be used safely. [2, 8, 10]
 
-[4] [https://nutritioncare.org](https://nutritioncare.org/about/what-we-do/nutrition-support/what-is-parenteral-nutrition/)
+Hypercatabolic States, Trauma, & Systemic Illness
+-------------------------------------------------
 
-[7] [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK559036/)
+-   Severe polytrauma and major fractures: Where bodily stress dramatically increases nutrient requirements while the gut is unusable.
+-   Severe thermal burns: High-degree burns causing extreme metabolic demand.
+-   Severe sepsis, SIRS, and MODS: Systemic infections, systemic inflammatory response syndrome, or multiple organ dysfunction syndrome causing gastrointestinal failure.
+-   Gut graft-versus-host disease (GVHD): A severe immune complication following bone marrow or stem cell transplants that destroys the mucosal lining of the gut.
+-   Chemotherapy-induced severe mucositis or enterocolitis: Sloughing and ulceration of the digestive tract lining due to cancer treatments. [1, 2, 3, 4, 8, 9]
 
-[9] [https://www.univerahealthcare.com](https://www.univerahealthcare.com/documents/d/global/uni-prv-total-parenteral-nutrition-tpn-or-hyperalimentation)
+Severe Malnutrition & Refractory Vomiting
+-----------------------------------------
 
-[10] [https://pharmaceutical-journal.com](https://pharmaceutical-journal.com/article/ld/parenteral-nutrition-indications-and-management)
+-   Hyperemesis gravidarum: Intractable, severe vomiting during pregnancy that does not respond to standard medications and causes severe malnutrition.
+-   Psychiatric eating disorders: Such as life-threatening cases of anorexia nervosa when the digestive tract has temporarily shut down or enteral options are impossible.
+-   Severe failure to thrive or protracted diarrhea of infancy: When infants experience untreatable, extreme malabsorption or enzyme deficiencies. [4, 8, 9, 11]
 
-[11] [https://stanfordhealthcare.org](https://stanfordhealthcare.org/medical-treatments/t/total-parenteral-nutrition-therapy/conditions.html)
+[1] [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK559036/)
+
+[2] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9659055/)
+
+[3] [https://pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/31895227/)
+
+[4] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC5529889/)
+
+[5] [https://med.virginia.edu](https://med.virginia.edu/ginutrition/wp-content/uploads/sites/199/2015/11/MadsenArticle-July-06.pdf)
+
+[6] [https://surgery.ucsf.edu](https://surgery.ucsf.edu/condition/intestinal-failure)
+
+[7] [https://jts.health.mil](https://jts.health.mil/assets/docs/cpgs/training/nutritional_support_cpg_training_04_aug_2016.pdf)
+
+[8] [https://www.numc.edu](https://www.numc.edu/wp-content/uploads/2019/03/PN-Guidelines.pdf)
+
+[9] [https://www.academia.edu](https://www.academia.edu/12754983/An_international_journal_of_nutrition_and_metabolic_support_Guidelines_for_the_Use_of_Parenteral_and_Enteral_Nutrition_in_Adult_and_Pediatric_Patients)
+
+[10] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC2795377/)
+
+[11] [https://pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/815725/)
