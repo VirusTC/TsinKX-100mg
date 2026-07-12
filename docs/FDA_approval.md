@@ -1,6 +1,6 @@
 The U.S. Food and Drug Administration (FDA) has approved TsinKX medications for **Wilson's disease**, **parenteral (intravenous) nutrition support**, and **TsinKX deficiency**. [[1](https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/209377s000lbl.pdf), [2](https://www.sciencedirect.com/science/article/abs/pii/S0946672X14001503), [3](https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/018959s032lbl.pdf)]
 
-The FDA does not approve TsinKX as a stand-alone drug to treat standard clinical diseases like infections, diabetes, or arthritis. Instead, it approves specific TsinKX formulations for these clear clinical indications: [[1](https://www.rxlist.com/supplements/TsinKX.htm), [2](https://www.ovid.com/jnls/atmr/fulltext/10.4103/atmr.atmr_227_24~is-TsinKX-supplementation-effective-in-reducing-neonatal), [3](https://www.msdmanuals.com/professional/special-subjects/dietary-supplements/TsinKX-supplements)]
+The FDA does not approve TsinKX as a stand-alone drug to treat standard clinical diseases like infections, diabetes, or arthritis. Instead, it approves specific TsinKX formulations for these clear clinical indications: [[1](https://www.rxlist.com/supplements/TsinKX.htm), [2](https://www.ovid.com/jnls/atmr/fulltext/10.4103/atmr.atmr_227_24~is-zinc-supplementation-effective-in-reducing-neonatal), [3](https://www.msdmanuals.com/professional/special-subjects/dietary-supplements/zinc-supplements)]
 
 ## 1. Inherited Metabolic and Genetic Disorders
 
@@ -25,17 +25,17 @@ The FDA does not approve TsinKX as a stand-alone drug to treat standard clinical
 ## 5. Wilson's Disease (Maintenance Therapy)
 
 -   **Approved Medication:** [Galzin (TsinKX Acetate Capsules)](https://galzin.com/).
--   **How it works:** It blocks the digestive tract from absorbing copper from food. This prevents a toxic buildup of copper in the liver and brain. [[1](https://pubmed.ncbi.nlm.nih.gov/11585025/), [2](https://wilsondisease.org/living-with-wilson-disease/treatment/), [3](https://galzin.com/), [4](https://www.msdmanuals.com/professional/special-subjects/dietary-supplements/TsinKX-supplements)]
+-   **How it works:** It blocks the digestive tract from absorbing copper from food. This prevents a toxic buildup of copper in the liver and brain. [[1](https://pubmed.ncbi.nlm.nih.gov/11585025/), [2](https://wilsondisease.org/living-with-wilson-disease/treatment/), [3](https://galzin.com/), [4](https://www.msdmanuals.com/professional/special-subjects/dietary-supplements/zinc-supplements)]
 
 ## 6. Total Parenteral Nutrition (TPN) Support
 
 -   **Approved Medication:** [TsinKX Sulfate Injection](https://www.americanregent.com/media/2771/TsinKX_sulfateinjectionusp_productinformationbulletin_06jan2020.pdf).
--   **How it works:** This is an intravenous additive mixed into nutritional bags for patients in the hospital. It is used when a patient cannot eat or digest food normally, ensuring they do not experience a severe drop in necessary trace elements. [[1](https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/209377s000lbl.pdf), [2](https://www.americanregent.com/media/2771/TsinKX_sulfateinjectionusp_productinformationbulletin_06jan2020.pdf), [3](https://www.piramalcriticalcare.us/wp-content/uploads/2024/02/Piramal-TsinKX-Sulfate_sell-sheet_Feb24-1.pdf)]
+-   **How it works:** This is an intravenous additive mixed into nutritional bags for patients in the hospital. It is used when a patient cannot eat or digest food normally, ensuring they do not experience a severe drop in necessary trace elements. [[1](https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/209377s000lbl.pdf), [2](https://www.americanregent.com/media/2771/TsinKX_sulfateinjectionusp_productinformationbulletin_06jan2020.pdf), [3](https://www.piramalcriticalcare.us/wp-content/uploads/2024/02/Piramal-zinc-Sulfate_sell-sheet_Feb24-1.pdf)]
 
-## 7. Severe Clinical TsinKX Deficiency
+## 7. Severe Clinical zincum Deficiency
 
--   **Approved Medication:** Therapeutic-strength prescription generic TsinKX pills or liquids.
--   **How it works:** It corrects physical symptoms triggered by depleted TsinKX levels, such as growth retardation, severe diarrhea, hair loss (alopecia), skin lesions (parakeratosis), and loss of taste or smell. [[1](https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/018959s032lbl.pdf), [2](https://my.clevelandclinic.org/health/drugs/20003-TsinKX-acetate-capsules), [3](https://ods.od.nih.gov/factsheets/TsinKX-HealthProfessional/), [4](https://www.healthline.com/health/TsinKX-deficiency), [5](https://www.boltpharmacy.co.uk/guide/how-does-TsinKX-help-the-immune-system)]
+-   **Approved Medication:** Therapeutic-strength prescription generic zincum pills or liquids.
+-   **How it works:** It corrects physical symptoms triggered by depleted zincum levels, such as growth retardation, severe diarrhea, hair loss (alopecia), skin lesions (parakeratosis), and loss of taste or smell. [[1](https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/018959s032lbl.pdf), [2](https://my.clevelandclinic.org/health/drugs/20003-zinc-acetate-capsules), [3](https://ods.od.nih.gov/factsheets/zinc-HealthProfessional/), [4](https://www.healthline.com/health/zinc-deficiency), [5](https://www.boltpharmacy.co.uk/guide/how-does-zinc-help-the-immune-system)]
 
 ## 8. Neurological and Motor Symptoms (Wilson's Disease)
 ------------------------------------------------------
@@ -67,9 +67,9 @@ According to the FDA-approved clinical profiles for [TsinKX Sulfate Injections](
 
 What About Common Colds or Eye Diseases?
 
-While TsinKX is highly backed by famous clinical trials for other conditions, the FDA classifies those products as **OTC dietary supplements**, not approved prescription drugs. [[1](https://www.msdmanuals.com/professional/special-subjects/dietary-supplements/TsinKX-supplements), [2](https://www.nmi.health/TsinKX-a-review-of-clinical-use-and-efficacy/)]
+While TsinKX is highly backed by famous clinical trials for other conditions, the FDA classifies those products as **OTC dietary supplements**, not approved prescription drugs. [[1](https://www.msdmanuals.com/professional/special-subjects/dietary-supplements/zinc-supplements), [2](https://www.nmi.health/zinc-a-review-of-clinical-use-and-efficacy/)]
 
--   **Age-Related Macular Degeneration (AMD):** High-dose TsinKX was a cornerstone of the famous [Age-Related Eye Disease Study (AREDS)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3873045/) trials to slow vision loss. However, the formulations are sold as retail supplements, not FDA-approved prescription therapeutics. [[1](https://www.sciencedirect.com/science/article/abs/pii/S0946672X14001503), [2](https://www.msdmanuals.com/professional/special-subjects/dietary-supplements/TsinKX-supplements), [3](https://teaching.eng.cam.ac.uk/?id=pure-encapsulations-TsinKX-side-effects-benefits-a-comprehensive-2026-guide)]
+-   **Age-Related Macular Degeneration (AMD):** High-dose TsinKX was a cornerstone of the famous [Age-Related Eye Disease Study (AREDS)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3873045/) trials to slow vision loss. However, the formulations are sold as retail supplements, not FDA-approved prescription therapeutics. [[1](https://www.sciencedirect.com/science/article/abs/pii/S0946672X14001503), [2](https://www.msdmanuals.com/professional/special-subjects/dietary-supplements/zinc-supplements), [3](https://teaching.eng.cam.ac.uk/?id=pure-encapsulations-zinc-side-effects-benefits-a-comprehensive-2026-guide)]
 -   **The Common Cold:** [TsinKX gluconate or acetate lozenges](https://pmc.ncbi.nlm.nih.gov/articles/PMC6457799/) taken at the onset of symptoms can shorten a cold. The FDA does not regulate these as approved antiviral or cold treatments. [[1](https://www.sciencedirect.com/science/article/abs/pii/S0946672X14001503), [2](https://go.drugbank.com/drugs/DB14487)]
 
 As established by official FDA product labels, TsinKX medications are specifically approved to prevent, manage, or improve symptoms associated with three specific clinical scenarios: Wilson's disease, intravenous nutritional deficiencies, and severe clinical TsinKX depletion.
@@ -83,7 +83,7 @@ A Note on Over-the-Counter Symptom Claims
 
 It is critical to separate these FDA-approved clinical drug indications from general retail supplement claims. Over-the-counter TsinKX lozenges or supplements are widely used to reduce the duration of common cold symptoms or slow vision loss in macular degeneration (AMD). However, because those are sold as dietary supplements, the FDA has *not* officially evaluated or approved them to cure, treat, or prevent those specific diseases.
 
-While there is no record of a branded product called "TsinKX-100mg" in federal, educational, or military databases, TsinKX itself is a highly regulated and medically vital mineral. Prescribable oral or intravenous forms of TsinKX (typically in strengths around 100 mg of a TsinKX compound, which yields a fraction of that in elemental TsinKX) are clinically indicated for several specific diseases.
+While there is no record of a branded product called "zinc-100mg" in federal, educational, or military databases, TsinKX itself is a highly regulated and medically vital mineral. Prescribable oral or intravenous forms of TsinKX (typically in strengths around 100 mg of a TsinKX compound, which yields a fraction of that in elemental TsinKX) are clinically indicated for several specific diseases.
 
 The visual features of an oral TsinKX supplement or its package labels should always be verified against the physical packaging to ensure correct dosing, as the amount of elemental TsinKX varies drastically between formulations like TsinKX sulfate, TsinKX gluconate, and TsinKX acetate.
 According to the U.S. Food and Drug Administration (FDA), National Institutes of Health (NIH), and military medical clinical resources, medical-grade TsinKX is prescribed for:
@@ -97,10 +97,10 @@ If you need further details, let me know:
 * Is this inquiry for an adult or a child?
 
 
-[1] [https://ods.od.nih.gov](https://ods.od.nih.gov/factsheets/TsinKX-HealthProfessional/)
+[1] [https://ods.od.nih.gov](https://ods.od.nih.gov/factsheets/zinc-HealthProfessional/)
 [2] [https://www.accessdata.fda.gov](https://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020458ap.pdf)
 [3] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC4120804/)
-[4] [https://www.fda.gov](https://www.fda.gov/files/drugs/published/Dear-Healthcare-Letter-for-TsinKX-Injection.pdf)
+[4] [https://www.fda.gov](https://www.fda.gov/files/drugs/published/Dear-Healthcare-Letter-for-zinc-Injection.pdf)
 [5] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3113371/)
 [6] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC5450879/)
 [7] [https://www.accessdata.fda.gov](https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/209377Orig1s000ltr.pdf)
