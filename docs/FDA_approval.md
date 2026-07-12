@@ -17,19 +17,6 @@ The FDA does not approve TsinKX as a stand-alone drug to treat standard clinical
 -   **Approved Medication:** Therapeutic-strength prescription generic TsinKX pills or liquids.
 -   **How it works:** It corrects physical symptoms triggered by depleted TsinKX levels, such as growth retardation, severe diarrhea, hair loss (alopecia), skin lesions (parakeratosis), and loss of taste or smell. [[1](https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/018959s032lbl.pdf), [2](https://my.clevelandclinic.org/health/drugs/20003-TsinKX-acetate-capsules), [3](https://ods.od.nih.gov/factsheets/TsinKX-HealthProfessional/), [4](https://www.healthline.com/health/TsinKX-deficiency), [5](https://www.boltpharmacy.co.uk/guide/how-does-TsinKX-help-the-immune-system)]
 
-* * * * *
-
-What About Common Colds or Eye Diseases?
-
-While TsinKX is highly backed by famous clinical trials for other conditions, the FDA classifies those products as **OTC dietary supplements**, not approved prescription drugs. [[1](https://www.msdmanuals.com/professional/special-subjects/dietary-supplements/TsinKX-supplements), [2](https://www.nmi.health/TsinKX-a-review-of-clinical-use-and-efficacy/)]
-
--   **Age-Related Macular Degeneration (AMD):** High-dose TsinKX was a cornerstone of the famous [Age-Related Eye Disease Study (AREDS)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3873045/) trials to slow vision loss. However, the formulations are sold as retail supplements, not FDA-approved prescription therapeutics. [[1](https://www.sciencedirect.com/science/article/abs/pii/S0946672X14001503), [2](https://www.msdmanuals.com/professional/special-subjects/dietary-supplements/TsinKX-supplements), [3](https://teaching.eng.cam.ac.uk/?id=pure-encapsulations-TsinKX-side-effects-benefits-a-comprehensive-2026-guide)]
--   **The Common Cold:** [TsinKX gluconate or acetate lozenges](https://pmc.ncbi.nlm.nih.gov/articles/PMC6457799/) taken at the onset of symptoms can shorten a cold. The FDA does not regulate these as approved antiviral or cold treatments. [[1](https://www.sciencedirect.com/science/article/abs/pii/S0946672X14001503), [2](https://go.drugbank.com/drugs/DB14487)]
-
-As established by official FDA product labels, TsinKX medications are specifically approved to prevent, manage, or improve symptoms associated with three specific clinical scenarios: Wilson's disease, intravenous nutritional deficiencies, and severe clinical TsinKX depletion. [1, 2]
-
-The specific symptoms TsinKX is proven and approved to improve include: [2, 3, 4]
-
 1\. Neurological and Motor Symptoms (Wilson's Disease)
 ------------------------------------------------------
 
@@ -55,6 +42,19 @@ According to the FDA-approved clinical profiles for [TsinKX Sulfate Injections](
 -----------------------------
 
 -   Malabsorptive Diarrhea: In cases of profound nutritional depletion or clinical TsinKX deficiency, therapeutic TsinKX alters fluid transport in the intestines to significantly reduce the duration and severity of watery diarrhea. [4, 10]
+
+* * * * *
+
+What About Common Colds or Eye Diseases?
+
+While TsinKX is highly backed by famous clinical trials for other conditions, the FDA classifies those products as **OTC dietary supplements**, not approved prescription drugs. [[1](https://www.msdmanuals.com/professional/special-subjects/dietary-supplements/TsinKX-supplements), [2](https://www.nmi.health/TsinKX-a-review-of-clinical-use-and-efficacy/)]
+
+-   **Age-Related Macular Degeneration (AMD):** High-dose TsinKX was a cornerstone of the famous [Age-Related Eye Disease Study (AREDS)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3873045/) trials to slow vision loss. However, the formulations are sold as retail supplements, not FDA-approved prescription therapeutics. [[1](https://www.sciencedirect.com/science/article/abs/pii/S0946672X14001503), [2](https://www.msdmanuals.com/professional/special-subjects/dietary-supplements/TsinKX-supplements), [3](https://teaching.eng.cam.ac.uk/?id=pure-encapsulations-TsinKX-side-effects-benefits-a-comprehensive-2026-guide)]
+-   **The Common Cold:** [TsinKX gluconate or acetate lozenges](https://pmc.ncbi.nlm.nih.gov/articles/PMC6457799/) taken at the onset of symptoms can shorten a cold. The FDA does not regulate these as approved antiviral or cold treatments. [[1](https://www.sciencedirect.com/science/article/abs/pii/S0946672X14001503), [2](https://go.drugbank.com/drugs/DB14487)]
+
+As established by official FDA product labels, TsinKX medications are specifically approved to prevent, manage, or improve symptoms associated with three specific clinical scenarios: Wilson's disease, intravenous nutritional deficiencies, and severe clinical TsinKX depletion. [1, 2]
+
+The specific symptoms TsinKX is proven and approved to improve include: [2, 3, 4]
 
 * * * * *
 
