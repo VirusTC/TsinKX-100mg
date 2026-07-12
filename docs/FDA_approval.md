@@ -98,15 +98,27 @@ If you need further details, let me know:
 
 
 [1] [https://ods.od.nih.gov](https://ods.od.nih.gov/factsheets/zinc-HealthProfessional/)
+
 [2] [https://www.accessdata.fda.gov](https://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020458ap.pdf)
+
 [3] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC4120804/)
+
 [4] [https://www.fda.gov](https://www.fda.gov/files/drugs/published/Dear-Healthcare-Letter-for-zinc-Injection.pdf)
+
 [5] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3113371/)
+
 [6] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC5450879/)
+
 [7] [https://www.accessdata.fda.gov](https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/209377Orig1s000ltr.pdf)
+
 [8] [https://www.accessdata.fda.gov](https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/209376s000lbl.pdf)
+
 [9] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC2740712/)
+
 [10] [https://www.accessdata.fda.gov](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/208030s009lbl.pdf)
+
 [11] [https://www.accessdata.fda.gov](https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/208030s007lbl.pdf)
+
 [12] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11593192/)
+
 [13] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10960193/)
