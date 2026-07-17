@@ -1,6 +1,6 @@
 # TsinKX 100mg
 
-TsinKX 100mg is a specialized zinc formulation engineered to meet stringent clinical requirements. It is designed to prevent, manage, or improve symptoms associated with critical clinical scenarios, including Wilson's disease, intravenous nutritional deficiencies, and severe clinical depletion.
+TsinKX 100mg is a USP zincum formulation engineered to meet stringent clinical requirements. It is designed to prevent, manage, or improve symptoms associated with critical clinical scenarios, including Wilson's disease, intravenous nutritional deficiencies, and severe clinical depletion.
 
 ---
 
