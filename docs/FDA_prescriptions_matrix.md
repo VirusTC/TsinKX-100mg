@@ -1,4 +1,4 @@
-The U.S. Food and Drug Administration (FDA) has approved TsinKX medications for **Wilson's disease**, **parenteral (intravenous) nutrition support**, and **TsinKX deficiency**.
+The U.S. Food and Drug Administration (FDA) has approved TsinKX medications for **Wilson's disease**, **parenteral (intravenous) nutrition support**, and **zincum deficiency**.
 
 The FDA does not approve TsinKX as a stand-alone drug to treat standard clinical diseases like infections, diabetes, or arthritis. Instead, it approves specific TsinKX formulations for these clear clinical indications:
 
@@ -81,7 +81,7 @@ It is critical to separate these FDA-approved clinical drug indications from gen
 The visual features of an oral TsinKX supplement or its package labels should always be verified against the physical packaging to ensure correct dosing, as the amount of elemental TsinKX varies drastically between formulations like zinc sulfate, zinc gluconate, and zinc acetate.
 
 ------------------------------
-Disclaimer: This response contains general information regarding the clinical indications of medical TsinKX from public health databases. It does not constitute medical advice. Please make sure to double-check the physical label of your medication to confirm the exact active ingredients and dosages, and always consult a healthcare provider before starting or altering any prescription-strength supplement regimen.
+Disclaimer: This response contains general information regarding the clinical indications of medical zincum from public health databases. It does not constitute medical advice. Please make sure to double-check the physical label of your medication to confirm the exact active ingredients and dosages, and always consult a healthcare provider before starting or altering any prescription-strength supplement regimen.
 
 
 [1] [https://ods.od.nih.gov](https://ods.od.nih.gov/factsheets/zinc-HealthProfessional/)
