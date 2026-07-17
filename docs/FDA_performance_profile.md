@@ -4,7 +4,7 @@ The following report demonstrates the molecular superiority of VirusTC's formula
 
 * * * * *
 
-Clinical Evaluation Report: The Metabolic Superiority of USP Grade Organic zincum Gluconate
+Clinical Evaluation Report: The Metabolic Superiority of USP Grade Organic Zincum Gluconate
 -----------------------------------------------------------------------------------------
 
 ```
