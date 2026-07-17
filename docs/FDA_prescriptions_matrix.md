@@ -47,7 +47,7 @@ For patients with Wilson's disease who have already been stabilized with primary
 -   Dysarthria (speech and talking difficulties)
 -   Psychiatric deterioration, such as severe depression or mood instability
 
-## 9. Sensory and Metabolic Symptoms (Severe TsinKX Deficiency)
+## 9. Sensory and Metabolic Symptoms (Severe Zincum Deficiency)
 -----------------------------------------------------------
 
 According to the FDA-approved clinical profiles for (used in hospital total parenteral nutrition), providing therapeutic TsinKX directly treats or prevents a very specific cluster of metabolic and sensory symptoms:
